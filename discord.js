@@ -1,6 +1,6 @@
 async function copydiscord() {
         try {
-            await navigator.clipboard.writeText('!!!!!Axueikae1337 |#8939');
+            await navigator.clipboard.writeText('axueikae');
             ds.style.display='block';
             setTimeout("ds.style.display='none'", 2000);
         }
